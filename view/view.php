@@ -1,5 +1,5 @@
 	<?php
-    include'view/form.php';
+    include'layouts/form.php';
 	?>
 
 
